@@ -1,0 +1,10 @@
+C:\Users\NASA\source\repos\CopyFile\CopyFile\bin\Debug\CopyFile.exe.config
+C:\Users\NASA\source\repos\CopyFile\CopyFile\bin\Debug\CopyFile.exe
+C:\Users\NASA\source\repos\CopyFile\CopyFile\bin\Debug\CopyFile.pdb
+C:\Users\NASA\source\repos\CopyFile\CopyFile\obj\Debug\CopyFile.csprojAssemblyReference.cache
+C:\Users\NASA\source\repos\CopyFile\CopyFile\obj\Debug\CopyFile.Form1.resources
+C:\Users\NASA\source\repos\CopyFile\CopyFile\obj\Debug\CopyFile.Properties.Resources.resources
+C:\Users\NASA\source\repos\CopyFile\CopyFile\obj\Debug\CopyFile.csproj.GenerateResource.cache
+C:\Users\NASA\source\repos\CopyFile\CopyFile\obj\Debug\CopyFile.csproj.CoreCompileInputs.cache
+C:\Users\NASA\source\repos\CopyFile\CopyFile\obj\Debug\CopyFile.exe
+C:\Users\NASA\source\repos\CopyFile\CopyFile\obj\Debug\CopyFile.pdb
